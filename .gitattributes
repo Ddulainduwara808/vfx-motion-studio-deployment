@@ -1,0 +1,10 @@
+go.sum linguist-generated
+*.woff binary
+*.js linguist-detectable
+*.json linguist-detectable=false
+*.jpeg binary
+docs/**/*.html linguist-vendored
+*.svg text
+*.html linguist-vendored
+* text=auto eol=lf
+vendor/* linguist-vendored
